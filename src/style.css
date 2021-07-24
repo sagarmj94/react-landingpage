@@ -20,7 +20,7 @@ body {
 }
 
 .navbar {
-  background: #1b6e43 !important;
+  background: #043d37 !important;
 
   width: 100%;
   display: flex !important;
@@ -34,7 +34,7 @@ nav-link {
   color: white;
 }
 .nav-link:hover {
-  background-color: rgb(46, 46, 44);
+  background-color: #075e54;
 }
 ul {
   width: 80% !important;
@@ -51,7 +51,7 @@ ul {
     align-items: center;
   }
   .nav-link:hover {
-    background-color: rgb(46, 46, 44);
+    background-color: #075e54;
     border-radius: 30px;
     padding: 10px 15px;
   }
